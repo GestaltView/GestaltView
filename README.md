@@ -25,7 +25,7 @@ I’m Keith, the mind behind GestaltView—driven by a **deep passion for human 
 - **Ethics & Inclusion:** Championing responsible innovation, including hiring individuals with past barriers to entry.  
 - **Disruptive Thinking:** Redefining success beyond traditional valuation models.  
 
-I’m actively shaping Gestalt
+I’m actively shaping GestaltView
 
 <!---
 GestaltView/GestaltView is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
